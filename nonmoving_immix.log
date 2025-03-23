@@ -1,0 +1,709 @@
+Processing size class 32
+  Actual payload size: 24 bytes, N: 16
+  Allocating 5242880 objects
+        Before
+Fragmentation in space "immix": 37839968 live bytes, 135864320 total bytes, 27.85 %
+Fragmentation in space "los": 10074624 live bytes, 12775424 total bytes, 78.86 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immix": 205627304 live bytes, 263331840 total bytes, 78.09 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10074624 live bytes, 12775424 total bytes, 78.86 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immix": 38201328 live bytes, 263684096 total bytes, 14.49 %
+Fragmentation in space "los": 10074624 live bytes, 12775424 total bytes, 78.86 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Processing size class 48
+  Actual payload size: 40 bytes, N: 32
+  Allocating 3491840 objects
+        Before
+Fragmentation in space "los": 10074624 live bytes, 12775424 total bytes, 78.86 %
+Fragmentation in space "immix": 38201344 live bytes, 199356416 total bytes, 19.16 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10074624 live bytes, 12775424 total bytes, 78.86 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 205816976 live bytes, 266956800 total bytes, 77.10 %
+      Fragment
+Fragmentation in space "immix": 38718280 live bytes, 266973184 total bytes, 14.50 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10074624 live bytes, 12775424 total bytes, 78.86 %
+Processing size class 64
+  Actual payload size: 56 bytes, N: 48
+  Allocating 2621440 objects
+        Before
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 38719016 live bytes, 233070592 total bytes, 16.61 %
+         Alloc
+Fragmentation in space "immix": 206498440 live bytes, 274276352 total bytes, 75.29 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immix": 39399760 live bytes, 274276352 total bytes, 14.36 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 80
+  Actual payload size: 72 bytes, N: 64
+  Allocating 2088960 objects
+        Before
+Fragmentation in space "immix": 39400528 live bytes, 253505536 total bytes, 15.54 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 206524704 live bytes, 274624512 total bytes, 75.20 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 40245160 live bytes, 274616320 total bytes, 14.66 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 96
+  Actual payload size: 88 bytes, N: 80
+  Allocating 1740800 objects
+        Before
+Fragmentation in space "immix": 40246152 live bytes, 264052736 total bytes, 15.24 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 207370288 live bytes, 281509888 total bytes, 73.66 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 41254584 live bytes, 281501696 total bytes, 14.66 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 112
+  Actual payload size: 104 bytes, N: 96
+  Allocating 1495040 objects
+        Before
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 41255704 live bytes, 272781312 total bytes, 15.12 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 208707504 live bytes, 285347840 total bytes, 73.14 %
+      Fragment
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 42428008 live bytes, 285347840 total bytes, 14.87 %
+Processing size class 128
+  Actual payload size: 120 bytes, N: 112
+  Allocating 1310720 objects
+        Before
+Fragmentation in space "immix": 42429256 live bytes, 279068672 total bytes, 15.20 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+         Alloc
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 210208592 live bytes, 299761664 total bytes, 70.13 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immix": 43765560 live bytes, 299753472 total bytes, 14.60 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Processing size class 144
+  Actual payload size: 136 bytes, N: 128
+  Allocating 1157120 objects
+        Before
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 43766936 live bytes, 289259520 total bytes, 15.13 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 210399552 live bytes, 297426944 total bytes, 70.74 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 45266840 live bytes, 297418752 total bytes, 15.22 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 160
+  Actual payload size: 152 bytes, N: 144
+  Allocating 1044480 objects
+        Before
+Fragmentation in space "immix": 45268344 live bytes, 293310464 total bytes, 15.43 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+         Alloc
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 212392768 live bytes, 303501312 total bytes, 69.98 %
+      Fragment
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 46932824 live bytes, 303493120 total bytes, 15.46 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Processing size class 176
+  Actual payload size: 168 bytes, N: 160
+  Allocating 952320 objects
+        Before
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 46934360 live bytes, 298418176 total bytes, 15.73 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 214549968 live bytes, 310251520 total bytes, 69.15 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immix": 48761992 live bytes, 310243328 total bytes, 15.72 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 192
+  Actual payload size: 184 bytes, N: 176
+  Allocating 870400 objects
+        Before
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 48763752 live bytes, 304275456 total bytes, 16.03 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+         Alloc
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 215887776 live bytes, 317853696 total bytes, 67.92 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 50755112 live bytes, 317829120 total bytes, 15.97 %
+Processing size class 208
+  Actual payload size: 200 bytes, N: 192
+  Allocating 798720 objects
+        Before
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 50757000 live bytes, 310976512 total bytes, 16.32 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 216898000 live bytes, 318611456 total bytes, 68.08 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+      Fragment
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 52912280 live bytes, 318595072 total bytes, 16.61 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Processing size class 224
+  Actual payload size: 216 bytes, N: 208
+  Allocating 747520 objects
+        Before
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 52914296 live bytes, 314785792 total bytes, 16.81 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 220366256 live bytes, 324202496 total bytes, 67.97 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 55233624 live bytes, 324202496 total bytes, 17.04 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 240
+  Actual payload size: 232 bytes, N: 224
+  Allocating 696320 objects
+        Before
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 55235768 live bytes, 319451136 total bytes, 17.29 %
+         Alloc
+Fragmentation in space "immix": 222360160 live bytes, 324075520 total bytes, 68.61 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+      Fragment
+Fragmentation in space "immix": 57719064 live bytes, 324067328 total bytes, 17.81 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 256
+  Actual payload size: 248 bytes, N: 240
+  Allocating 655360 objects
+        Before
+Fragmentation in space "immix": 57721336 live bytes, 321765376 total bytes, 17.94 %
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immix": 225501072 live bytes, 506519552 total bytes, 44.52 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "los": 10076800 live bytes, 12779520 total bytes, 78.85 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 60368472 live bytes, 506535936 total bytes, 11.92 %
+Processing size class 272
+  Actual payload size: 264 bytes, N: 256
+  Allocating 614400 objects
+        Before
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 60368808 live bytes, 411262976 total bytes, 14.68 %
+Fragmentation in space "los": 10078976 live bytes, 12783616 total bytes, 78.84 %
+         Alloc
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 227492992 live bytes, 590233600 total bytes, 38.54 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10078976 live bytes, 12783616 total bytes, 78.84 %
+      Fragment
+Fragmentation in space "los": 10078976 live bytes, 12783616 total bytes, 78.84 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 63179528 live bytes, 590266368 total bytes, 10.70 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Processing size class 288
+  Actual payload size: 280 bytes, N: 272
+  Allocating 573440 objects
+        Before
+Fragmentation in space "immix": 63179864 live bytes, 500752384 total bytes, 12.62 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10081280 live bytes, 12787712 total bytes, 78.84 %
+         Alloc
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10081280 live bytes, 12787712 total bytes, 78.84 %
+Fragmentation in space "immix": 228342104 live bytes, 679739392 total bytes, 33.59 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immix": 66158624 live bytes, 679800832 total bytes, 9.73 %
+Fragmentation in space "los": 10081280 live bytes, 12787712 total bytes, 78.84 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Processing size class 304
+  Actual payload size: 296 bytes, N: 288
+  Allocating 542720 objects
+        Before
+Fragmentation in space "immix": 66158960 live bytes, 590282752 total bytes, 11.21 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10083712 live bytes, 12791808 total bytes, 78.83 %
+         Alloc
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10083712 live bytes, 12791808 total bytes, 78.83 %
+Fragmentation in space "immix": 231156784 live bytes, 772726784 total bytes, 29.91 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 69300712 live bytes, 772734976 total bytes, 8.97 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10083712 live bytes, 12791808 total bytes, 78.83 %
+Processing size class 336
+  Actual payload size: 328 bytes, N: 320
+  Allocating 491520 objects
+        Before
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10086400 live bytes, 12795904 total bytes, 78.83 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 69301048 live bytes, 679792640 total bytes, 10.19 %
+         Alloc
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 234463096 live bytes, 858796032 total bytes, 27.30 %
+Fragmentation in space "los": 10086400 live bytes, 12795904 total bytes, 78.83 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "los": 10086400 live bytes, 12795904 total bytes, 78.83 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 72770880 live bytes, 858796032 total bytes, 8.47 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 368
+  Actual payload size: 360 bytes, N: 352
+  Allocating 450560 objects
+        Before
+Fragmentation in space "immix": 72771216 live bytes, 769314816 total bytes, 9.46 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10089344 live bytes, 12800000 total bytes, 78.82 %
+         Alloc
+Fragmentation in space "immix": 238589408 live bytes, 948293632 total bytes, 25.16 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10089344 live bytes, 12800000 total bytes, 78.82 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immix": 76569576 live bytes, 948301824 total bytes, 8.07 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "los": 10089344 live bytes, 12800000 total bytes, 78.82 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 400
+  Actual payload size: 392 bytes, N: 384
+  Allocating 409600 objects
+        Before
+Fragmentation in space "los": 10092544 live bytes, 12804096 total bytes, 78.82 %
+Fragmentation in space "immix": 76569912 live bytes, 858804224 total bytes, 8.92 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immix": 240422296 live bytes, 1037774848 total bytes, 23.17 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10092544 live bytes, 12804096 total bytes, 78.82 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10092544 live bytes, 12804096 total bytes, 78.82 %
+Fragmentation in space "immix": 80696128 live bytes, 1037791232 total bytes, 7.78 %
+Processing size class 448
+  Actual payload size: 440 bytes, N: 432
+  Allocating 368640 objects
+        Before
+Fragmentation in space "los": 10096128 live bytes, 12808192 total bytes, 78.83 %
+Fragmentation in space "immix": 80696464 live bytes, 948310016 total bytes, 8.51 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immix": 245857720 live bytes, 1127288832 total bytes, 21.81 %
+Fragmentation in space "los": 10098368 live bytes, 12812288 total bytes, 78.82 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "los": 10098368 live bytes, 12812288 total bytes, 78.82 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 85312384 live bytes, 1127288832 total bytes, 7.57 %
+Processing size class 496
+  Actual payload size: 488 bytes, N: 480
+  Allocating 337920 objects
+        Before
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 85312720 live bytes, 1037799424 total bytes, 8.22 %
+Fragmentation in space "los": 10102336 live bytes, 12816384 total bytes, 78.82 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 252931960 live bytes, 1222406144 total bytes, 20.69 %
+Fragmentation in space "los": 10104768 live bytes, 12820480 total bytes, 78.82 %
+      Fragment
+Fragmentation in space "los": 10104768 live bytes, 12820480 total bytes, 78.82 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2666496 total bytes, 0.00 %
+Fragmentation in space "immix": 90420784 live bytes, 1222414336 total bytes, 7.40 %
+Processing size class 544
+  Actual payload size: 536 bytes, N: 528
+  Allocating 307200 objects
+        Before
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 90421152 live bytes, 1127317504 total bytes, 8.02 %
+Fragmentation in space "los": 10109120 live bytes, 12828672 total bytes, 78.80 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "los": 10111744 live bytes, 12832768 total bytes, 78.80 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 257549240 live bytes, 1306288128 total bytes, 19.72 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 96021056 live bytes, 1306304512 total bytes, 7.35 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10111744 live bytes, 12832768 total bytes, 78.80 %
+Processing size class 576
+  Actual payload size: 568 bytes, N: 560
+  Allocating 286720 objects
+        Before
+Fragmentation in space "los": 10116352 live bytes, 12840960 total bytes, 78.78 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 96021424 live bytes, 1216806912 total bytes, 7.89 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immix": 261183800 live bytes, 1395777536 total bytes, 18.71 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10119104 live bytes, 12845056 total bytes, 78.78 %
+      Fragment
+Fragmentation in space "immix": 101949184 live bytes, 1395810304 total bytes, 7.30 %
+Fragmentation in space "los": 10119104 live bytes, 12845056 total bytes, 78.78 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Processing size class 624
+  Actual payload size: 616 bytes, N: 608
+  Allocating 266240 objects
+        Before
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10124096 live bytes, 12853248 total bytes, 78.77 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 101949552 live bytes, 1306304512 total bytes, 7.80 %
+         Alloc
+Fragmentation in space "immix": 268095272 live bytes, 1485283328 total bytes, 18.05 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10127040 live bytes, 12857344 total bytes, 78.76 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 108369232 live bytes, 1485291520 total bytes, 7.30 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10127040 live bytes, 12857344 total bytes, 78.76 %
+Processing size class 672
+  Actual payload size: 664 bytes, N: 656
+  Allocating 245760 objects
+        Before
+Fragmentation in space "immix": 108369600 live bytes, 1395793920 total bytes, 7.76 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10132416 live bytes, 12865536 total bytes, 78.76 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 273530608 live bytes, 1574772736 total bytes, 17.37 %
+Fragmentation in space "los": 10137664 live bytes, 12873728 total bytes, 78.75 %
+      Fragment
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10137664 live bytes, 12873728 total bytes, 78.75 %
+Fragmentation in space "immix": 115279032 live bytes, 1574780928 total bytes, 7.32 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Processing size class 736
+  Actual payload size: 728 bytes, N: 720
+  Allocating 225280 objects
+        Before
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10143552 live bytes, 12881920 total bytes, 78.74 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 115279400 live bytes, 1485291520 total bytes, 7.76 %
+         Alloc
+Fragmentation in space "immix": 281096056 live bytes, 1664262144 total bytes, 16.89 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10149248 live bytes, 12890112 total bytes, 78.74 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immix": 122844544 live bytes, 1664278528 total bytes, 7.38 %
+Fragmentation in space "los": 10149248 live bytes, 12890112 total bytes, 78.74 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Processing size class 816
+  Actual payload size: 808 bytes, N: 800
+  Allocating 204800 objects
+        Before
+Fragmentation in space "los": 10155776 live bytes, 12898304 total bytes, 78.74 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 122844912 live bytes, 1574780928 total bytes, 7.80 %
+         Alloc
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10162048 live bytes, 12906496 total bytes, 78.74 %
+Fragmentation in space "immix": 289973872 live bytes, 1753751552 total bytes, 16.53 %
+      Fragment
+Fragmentation in space "los": 10162048 live bytes, 12906496 total bytes, 78.74 %
+Fragmentation in space "immix": 131231512 live bytes, 1753792512 total bytes, 7.48 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 896
+  Actual payload size: 888 bytes, N: 880
+  Allocating 184320 objects
+        Before
+Fragmentation in space "los": 10169216 live bytes, 12914688 total bytes, 78.74 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 131231880 live bytes, 1664278528 total bytes, 7.89 %
+         Alloc
+Fragmentation in space "los": 10176064 live bytes, 12922880 total bytes, 78.74 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 296394504 live bytes, 1843265536 total bytes, 16.08 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "immix": 140436688 live bytes, 1843273728 total bytes, 7.62 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10176064 live bytes, 12922880 total bytes, 78.74 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 1008
+  Actual payload size: 1000 bytes, N: 992
+  Allocating 163840 objects
+        Before
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10184128 live bytes, 12931072 total bytes, 78.76 %
+Fragmentation in space "immix": 140437312 live bytes, 1753792512 total bytes, 8.01 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immix": 305596536 live bytes, 1932763136 total bytes, 15.81 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10196096 live bytes, 12951552 total bytes, 78.72 %
+      Fragment
+Fragmentation in space "immix": 150785600 live bytes, 1932763136 total bytes, 7.80 %
+Fragmentation in space "los": 10196096 live bytes, 12951552 total bytes, 78.72 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 1088
+  Actual payload size: 1080 bytes, N: 1072
+  Allocating 153600 objects
+        Before
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 150785968 live bytes, 1843273728 total bytes, 8.18 %
+Fragmentation in space "los": 10204800 live bytes, 12963840 total bytes, 78.72 %
+         Alloc
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10217600 live bytes, 12984320 total bytes, 78.69 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 317911064 live bytes, 2034999296 total bytes, 15.62 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10217600 live bytes, 12984320 total bytes, 78.69 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 161953568 live bytes, 2035015680 total bytes, 7.96 %
+Processing size class 1168
+  Actual payload size: 1160 bytes, N: 1152
+  Allocating 143360 objects
+        Before
+Fragmentation in space "immix": 161953936 live bytes, 1932763136 total bytes, 8.38 %
+Fragmentation in space "los": 10226944 live bytes, 12996608 total bytes, 78.69 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 329406376 live bytes, 2111733760 total bytes, 15.60 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10240704 live bytes, 13017088 total bytes, 78.67 %
+      Fragment
+Fragmentation in space "los": 10240704 live bytes, 13017088 total bytes, 78.67 %
+Fragmentation in space "immix": 173940400 live bytes, 2111741952 total bytes, 8.24 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 1248
+  Actual payload size: 1240 bytes, N: 1232
+  Allocating 133120 objects
+        Before
+Fragmentation in space "immix": 173940768 live bytes, 2022244352 total bytes, 8.60 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10250688 live bytes, 13029376 total bytes, 78.67 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10265216 live bytes, 13049856 total bytes, 78.66 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 340082568 live bytes, 2216132608 total bytes, 15.35 %
+      Fragment
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10265216 live bytes, 13049856 total bytes, 78.66 %
+Fragmentation in space "immix": 186746288 live bytes, 2216140800 total bytes, 8.43 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 1360
+  Actual payload size: 1352 bytes, N: 1344
+  Allocating 122880 objects
+        Before
+Fragmentation in space "los": 10276096 live bytes, 13062144 total bytes, 78.67 %
+Fragmentation in space "immix": 186746656 live bytes, 2111741952 total bytes, 8.84 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immix": 353871608 live bytes, 2290720768 total bytes, 15.45 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10291968 live bytes, 13086720 total bytes, 78.64 %
+      Fragment
+Fragmentation in space "immix": 200699264 live bytes, 2290720768 total bytes, 8.76 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10291968 live bytes, 13086720 total bytes, 78.64 %
+Processing size class 1488
+  Actual payload size: 1480 bytes, N: 1472
+  Allocating 112640 objects
+        Before
+Fragmentation in space "immix": 200699632 live bytes, 2201231360 total bytes, 9.12 %
+Fragmentation in space "los": 10303872 live bytes, 13099008 total bytes, 78.66 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "los": 10321152 live bytes, 13123584 total bytes, 78.65 %
+Fragmentation in space "immix": 368316232 live bytes, 2398109696 total bytes, 15.36 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+      Fragment
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10321152 live bytes, 13123584 total bytes, 78.65 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 215963136 live bytes, 2398126080 total bytes, 9.01 %
+Processing size class 1632
+  Actual payload size: 1624 bytes, N: 1616
+  Allocating 102400 objects
+        Before
+Fragmentation in space "los": 10334208 live bytes, 13139968 total bytes, 78.65 %
+Fragmentation in space "immix": 215963504 live bytes, 2290728960 total bytes, 9.43 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 383089192 live bytes, 2469699584 total bytes, 15.51 %
+Fragmentation in space "los": 10352960 live bytes, 13164544 total bytes, 78.64 %
+      Fragment
+Fragmentation in space "immix": 232702128 live bytes, 2469707776 total bytes, 9.42 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "los": 10352960 live bytes, 13164544 total bytes, 78.64 %
+Processing size class 1808
+  Actual payload size: 1800 bytes, N: 1792
+  Allocating 92160 objects
+        Before
+Fragmentation in space "immix": 232702496 live bytes, 2380210176 total bytes, 9.78 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10367424 live bytes, 13180928 total bytes, 78.65 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "los": 10388224 live bytes, 13205504 total bytes, 78.67 %
+Fragmentation in space "immix": 399336376 live bytes, 2581553152 total bytes, 15.47 %
+      Fragment
+Fragmentation in space "los": 10388224 live bytes, 13205504 total bytes, 78.67 %
+Fragmentation in space "immix": 251243024 live bytes, 2581569536 total bytes, 9.73 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Processing size class 2032
+  Actual payload size: 2024 bytes, N: 2016
+  Allocating 81920 objects
+        Before
+Fragmentation in space "los": 10404480 live bytes, 13221888 total bytes, 78.69 %
+Fragmentation in space "immix": 251243392 live bytes, 2469715968 total bytes, 10.17 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+         Alloc
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immix": 417713816 live bytes, 2648686592 total bytes, 15.77 %
+Fragmentation in space "los": 10427712 live bytes, 13258752 total bytes, 78.65 %
+      Fragment
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 272078048 live bytes, 2648698880 total bytes, 10.27 %
+Fragmentation in space "los": 10427712 live bytes, 13258752 total bytes, 78.65 %
+
+Fragmentation complete.
+         Final
+Fragmentation in space "los": 10427712 live bytes, 13258752 total bytes, 78.65 %
+Fragmentation in space "vm_space": 0 live bytes, 251199488 total bytes, 0.00 %
+Fragmentation in space "immortal": 0 live bytes, 2703360 total bytes, 0.00 %
+Fragmentation in space "immix": 272073496 live bytes, 2559205376 total bytes, 10.63 %
